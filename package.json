@@ -1,0 +1,29 @@
+{
+  "name": "hai_albint",
+  "version": "1.0.0",
+  "description": "An NPX CLI tool by Albin Thomas",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "hai_albint": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrWings22/albin-intro.git"
+  },
+  "keywords": [],
+  "author": "Albin Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrWings22/albin-intro/issues"
+  },
+  "homepage": "https://github.com/MrWings22/albin-intro#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.0",
+    "gradient-string": "^3.0.0"
+  }
+}
